@@ -12,8 +12,8 @@ int main() {
         if (A[i] == X) {
             contains = true;
             break;
-        };
-    };
+        }
+    }
 
     if (contains) {
         cout << "Yes" << endl;
